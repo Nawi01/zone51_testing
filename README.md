@@ -1,2 +1,2 @@
 # zone51_testing
-My testing project for Python and Selenium 
+My testing project for Python with Pytest and Selenium 
